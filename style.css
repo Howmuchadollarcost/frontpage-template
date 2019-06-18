@@ -36,7 +36,7 @@ p {
 
 header {
   min-height: 100vh;
-  background: url("/UX1/assets/aqua-aquarium-beautiful-1086585.jpg") no-repeat
+  background: url("../frontpage-template/assets/aqua-aquarium-beautiful-1086585.jpg") no-repeat
     center center fixed;
   background-size: cover;
   width: 100%;
